@@ -1,0 +1,1 @@
+powershell Start-Process -WindowStyle hidden check.bat
